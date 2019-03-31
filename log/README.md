@@ -66,16 +66,16 @@ Download the project zip file to you computer and unzip the file.
 
 ## Find output of project
 
-what are the most popular three articles in all time?
+ (i).what are the most popular three articles in all time?
         1.Candidate is jerk, alleges rival - 338647views
         2.Bears love berries, alleges bear - 253801views
         3.Bad things gone, say good people - 170098views
-who are the most popular article authors in all time?
+ (ii).who are the most popular article authors in all time?
         1.Ursula La Multa - 507594views
         2.Rudolf von Treppenwitz - 423457views
         3.Anonymous Contributor - 170098views
         4.Markoff Chaney - 84557views
-on which days did more than 1% of requests lead to errors?
+  (iii).on which days did more than 1% of requests lead to errors?
         2016-07-17--2.26 %
 
 ## Miscellaneous
